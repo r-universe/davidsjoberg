@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "hablar",
+    "oncran": true
+  }
+]
