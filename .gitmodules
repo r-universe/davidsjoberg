@@ -5,9 +5,6 @@
 [submodule "ggbump"]
 	path = ggbump
 	url = https://github.com/davidsjoberg/ggbump
-[submodule "ggstream"]
-	path = ggstream
-	url = https://github.com/davidsjoberg/ggstream
 [submodule "hablar"]
 	path = hablar
 	url = https://github.com/davidsjoberg/hablar
