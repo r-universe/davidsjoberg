@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ggbump"]
-	path = ggbump
-	url = https://github.com/davidsjoberg/ggbump
 [submodule "hablar"]
 	path = hablar
 	url = https://github.com/davidsjoberg/hablar
